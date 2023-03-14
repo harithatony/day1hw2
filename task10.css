@@ -8,47 +8,75 @@ h1{
 background: red;
 height: 100px;
 width: 10%;
+display: flex;
+justify-content: center;
+align-items: center;
 
 }
 .heading{
 background: green;
 height: 100px;
 width: 90%;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .menu{
     height: 75px;
     background: yellow;
     width: 100%;
+    display: flex;
+justify-content: center;
+align-items: center;
 }
 .sec1{
 width: 33.3%;
 background: blue;
 height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .sec2{
     width: 33.3%;
 background: gray;
 height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .sec3{
     width: 33.3%;
 background: palevioletred;
 height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .content{
 width: 75%;
 height: 700px;
+text-align:center ;
 background: rgb(32, 232, 159);
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .bar{
 height: 700px;
 background: rgb(103, 146, 5);
 width:25%;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .footer{
     height: 15%;
     width: 100%;
     background: rgb(4, 104, 140);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 body{
     width: 100%;
